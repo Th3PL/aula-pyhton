@@ -4,8 +4,6 @@ def parImpar (numero) :
     else:
         print("O número digitado é impar")
 
-
-
 num = 1
 
 print("Digite números inteiros, ao digitar 0 o programa finalizara")
